@@ -1,1 +1,15 @@
 
+[
+  {
+    "name": "Eesti",
+    "capital": "Tallinn",
+    "continent": "Euroopa",
+    "timezone": "Europe/Tallinn"
+  },
+  {
+    "name": "Soome",
+    "capital": "Helsingi",
+    "continent": "Euroopa",
+    "timezone": "Europe/Helsinki"
+  }
+]
