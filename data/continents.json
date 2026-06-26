@@ -1,1 +1,31 @@
 
+[
+  {
+    "id": 1,
+    "name": "Aafrika"
+  },
+  {
+    "id": 2,
+    "name": "Aasia"
+  },
+  {
+    "id": 3,
+    "name": "Euroopa"
+  },
+  {
+    "id": 4,
+    "name": "Põhja-Ameerika"
+  },
+  {
+    "id": 5,
+    "name": "Lõuna-Ameerika"
+  },
+  {
+    "id": 6,
+    "name": "Okeaania"
+  },
+  {
+    "id": 7,
+    "name": "Antarktika"
+  }
+]
