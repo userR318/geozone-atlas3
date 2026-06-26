@@ -1,1 +1,15 @@
 
+[
+  {
+    "name": "Europe/Tallinn",
+    "utc": "UTC+02:00"
+  },
+  {
+    "name": "Europe/London",
+    "utc": "UTC+00:00"
+  },
+  {
+    "name": "Asia/Tokyo",
+    "utc": "UTC+09:00"
+  }
+]
