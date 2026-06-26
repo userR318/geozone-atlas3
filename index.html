@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GeoAtlas</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <h1>🌍 GeoAtlas</h1>
+    <p>Maailma riigid, mandrid ja ajavööndid</p>
+  </header>
+
+  <main>
+    <button onclick="showSection('continents')">🌍 Mandrid</button>
+    <button onclick="showSection('countries')">🏳️ Riigid</button>
+    <button onclick="showSection('timezones')">🕒 Ajavööndid</button>
+    <button onclick="showSection('map')">🗺️ Maailmakaart</button>
+    <button onclick="showSection('search')">🔍 Otsi</button>
+
+    <section id="output">
+      <h2>Tere tulemast GeoAtlasesse</h2>
+      <p>Vali teema, mida uurida.</p>
+    </section>
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
