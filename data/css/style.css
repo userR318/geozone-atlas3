@@ -32,3 +32,10 @@ button{
 button:hover{
     background:#0d47a1;
 }
+#output {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 25px;
+  background: white;
+  border-radius: 14px;
+}
